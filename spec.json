@@ -1,0 +1,12 @@
+{
+  "name": "matlab-xunit",
+  "description": "An implementation of the xUnit test framework for MATLAB (a packaged version of https://github.com/psexton/matlab-xunit for MPM)",
+  "friendly_name": "xUnit Test Framework",
+  "specVersion": "1.0.0",
+  "require": {
+    "matlab": "2010b",
+    "packages": {},
+    "toolboxes": []
+  },
+  "version": "4.0.0"
+}
